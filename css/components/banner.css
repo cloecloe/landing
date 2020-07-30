@@ -1,0 +1,15 @@
+.banner {
+  width: 100%;
+  height: 450px;
+  background-size: cover;
+}
+
+.banner > .container-p {
+  padding: 80px 100px 80px 100px;
+}
+
+.banner > .container-p > h2 {
+  color: #184d47;
+  font-weight: lighter;
+  text-shadow: 0 0 5px white;
+}

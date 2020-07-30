@@ -1,0 +1,24 @@
+.card {
+  padding: 8px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  width: 250px;
+  margin: 40px auto;
+}
+
+.card > img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.card > div {
+  text-align: center;
+}
+
+.card .btn {
+  margin: 5px auto;
+}
+
+.card a {
+  display: inline-block;
+}
